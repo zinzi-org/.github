@@ -55,31 +55,31 @@ All smart contracts developed by zinzi.org
 
 Zinzi is the root foundation website where all documentation and news will be displayed.
 
-### [Board Studio  (Private Repository)](https://github.com/zinzi-org/brd-studio)
+### [Board Studio](https://github.com/zinzi-org/brd-studio)
 
 [https://www.brd.studio](https://www.brd.studio)
 
 A place for members to create and maintain their member board.
 
-### [Team Project  (Private Repository)](https://github.com/zinzi-org/proj-team)
+### [Team Project](https://github.com/zinzi-org/proj-team)
 
 [https://www.proj.team](https://www.proj.team)
 
 Team Project is a place where users can apply to join a group and existing members can maintain their current groups.
 
-### [Proposal Camp (Private Repository)](https://github.com/zinzi-org/prop-camp)
+### [Proposal Camp](https://github.com/zinzi-org/prop-camp)
 
 [https://www.prop.camp](https://www.prop.camp)
 
 Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
 
-### [Bird Pizza (Private Repository)](https://github.com/zinzi-org/brd-pizza)
+### [Bird Pizza](https://github.com/zinzi-org/brd-pizza)
 
 [https://www.prop.camp](https://www.brd.pizza)
 
 brd-pizza is an experimental social network using member board smart contracts. 
 
-### [Scheme Run (Private Repository)](https://github.com/zinzi-org/scheme)
+### [Scheme Run](https://github.com/zinzi-org/scheme)
 
 [https://www.scheme.run](https://www.scheme.run)
 
