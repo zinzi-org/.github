@@ -75,7 +75,7 @@ Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
 
 ### [Bird Pizza](https://github.com/zinzi-org/brd-pizza)
 
-[https://www.prop.camp](https://www.brd.pizza)
+[https://www.brd.pizza](https://www.brd.pizza)
 
 brd-pizza is an experimental social network using member board smart contracts. 
 
