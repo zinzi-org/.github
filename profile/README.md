@@ -1,7 +1,5 @@
 # Project Zinzi
 
-Project Zinzi is a nonprofit open source initiative maintained by a community of software developers. 
-
 Our goal is to provide a platform that will host other member based organizations with easy to use cryptographic proof of membership. Although proof of membership is just a small part of the puzzle. Project zinzi aims to seed decentralized platforms that will harness the benefits of this membership platform to ensure a successful ecosystem. 
 
 Zinzi consists of three core elements.
@@ -89,5 +87,14 @@ Pizza Board is an experimental social network using member board smart contracts
 [https://www.scheme.run](https://www.scheme.run)
 
 Scheme dot run is a web app where users can request quick funded projects with little fuss. 
+
+
+
+
+
+
+
+
+
 
 
