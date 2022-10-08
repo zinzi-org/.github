@@ -45,6 +45,15 @@ Agile Project Type
 When a bid is accepted and the proposal is accepted by the member the project type will unlock a series of functions  based on the needs of the individual or group that created the proposal and the individual or groups who accepted the proposal with a winning bid. 
 
 
+## Navigating The Source Code
+
+### [Zinzi](https://github.com/zinzi-org/zinzi)
+
+
+
+
+
+
 
 
 
