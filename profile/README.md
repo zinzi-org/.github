@@ -7,7 +7,7 @@ Zinzi consists of three core elements.
 - Member (ERC721 Soulbound Membership Token)
 - Project (ERC721 Transferable Token)
 
-## Member Board
+## Member Board Smart Contract
 
 Before someone can claim to be a member of an organization, the organization must be defined. 
 
