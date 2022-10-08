@@ -5,9 +5,9 @@ Project Zinzi is a nonprofit open source initiative maintained by a community of
 Our goal is to provide a platform that will host other member based organizations with easy to use cryptographic proof of membership. Although proof of membership is just a small part of the puzzle. Project zinzi aims to seed decentralized platforms that will harness the benefits of this membership platform to ensure a successful ecosystem. 
 
 Zinzi consists of three core elements.
-Member Board - Ethereum Based Governance  Smart Contract
-Member -  ERC721 Soulbound Membership Token
-Project -  ERC721 Transferable Token
+- Member Board (Ethereum Based Governance  Smart Contract)
+- Member (ERC721 Soulbound Membership Token)
+- Project (ERC721 Transferable Token)
 
 ## Member Board
 
