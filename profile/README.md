@@ -36,9 +36,9 @@ We will accomplish the goal of providing work to members. Project zinzi will mai
 
 After a Project NFT is awarded to a member bidder the contract becomes unlocked. A Project NFT can have many types. 
 
-Crowd Loan Project Type
-One Time Funded Project Type
-Agile Project Type
+- Crowd Loan Project Type
+- One Time Funded Project Type
+- Agile Project Type
 
 When a bid is accepted and the proposal is accepted by the member the project type will unlock a series of functions  based on the needs of the individual or group that created the proposal and the individual or groups who accepted the proposal with a winning bid. 
 
