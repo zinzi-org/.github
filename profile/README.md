@@ -47,7 +47,39 @@ When a bid is accepted and the proposal is accepted by the member the project ty
 
 ## Navigating The Source Code
 
+### Core Contracts
+
+### [Core Contracts](https://github.com/zinzi-org/proj-team)
+
+[https://www.proj.team](https://www.proj.team)
+
+The Core Contracts are where all solidity smart contracts are kept and maintained.
+
+### Board Studio Web Application
+
+### [Board Studio](https://github.com/zinzi-org/brd-studio)
+
+Board Studio is a react driven web application where users can come to maintain and create member boards.
+
+### Team Project Web Application
+
+### [Team Project](https://github.com/zinzi-org/proj-team)
+
+Team Project is a react driven web application where users can apply to join a group and existing members can maintain their group profiles.
+
+###  Zinzi Web App
+
 ### [Zinzi](https://github.com/zinzi-org/zinzi)
+
+Zinzi is the root foundation website where all documentation and news will be displayed.
+
+### [Proposal Camp](https://github.com/zinzi-org/prop-camp)
+
+### [brd-pizza](https://github.com/zinzi-org/brd-pizza)
+
+### [scheme](https://github.com/zinzi-org/scheme)
+
+
 
 
 
