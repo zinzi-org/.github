@@ -76,13 +76,13 @@ Zinzi is the root foundation website where all documentation and news will be di
 
 Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
 
-### [brd-pizza](https://github.com/zinzi-org/brd-pizza)
+### [Bird Pizza](https://github.com/zinzi-org/brd-pizza)
 
 [https://www.prop.camp](https://www.prop.camp)
 
-Pizza Board is an experimental social network using member board smart contracts. 
+brd-pizza is an experimental social network using member board smart contracts. 
 
-### [scheme](https://github.com/zinzi-org/scheme)
+### [Scheme Run](https://github.com/zinzi-org/scheme)
 
 [https://www.scheme.run](https://www.scheme.run)
 
