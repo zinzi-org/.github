@@ -45,6 +45,10 @@ When a bid is accepted and the proposal is accepted by the member the project ty
 
 ## Navigating The Source Code
 
+### [Core Contracts](https://github.com/zinzi-org/proj-team)
+
+All smart contracts developed by zinzi.org
+
 ### [Zinzi](https://github.com/zinzi-org/zinzi)
 
 [https://www.zinzi.org](https://www.zinzi.org)
@@ -52,22 +56,18 @@ When a bid is accepted and the proposal is accepted by the member the project ty
 
 Zinzi is the root foundation website where all documentation and news will be displayed.
 
-### [Core Contracts](https://github.com/zinzi-org/proj-team)
-
-[https://www.proj.team](https://www.proj.team)
-
-The Core Contracts are where all solidity smart contracts are kept and maintained.
 
 ### [Board Studio](https://github.com/zinzi-org/brd-studio)
 
 [https://www.brd.studio](https://www.brd.studio)
 
-Board Studio is a react driven web application where users can come to maintain and create member boards.
+A place for members to create and maintain their member board.
+
 ### [Team Project](https://github.com/zinzi-org/proj-team)
 
 [https://www.proj.team](https://www.proj.team)
 
-Team Project is a react driven web application where users can apply to join a group and existing members can maintain their group profiles.
+Team Project is a place where users can apply to join a group and existing members can maintain their current groups.
 
 
 
@@ -79,7 +79,7 @@ Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
 
 ### [Bird Pizza](https://github.com/zinzi-org/brd-pizza)
 
-[https://www.prop.camp](https://www.prop.camp)
+[https://www.prop.camp](https://www.brd.pizza)
 
 brd-pizza is an experimental social network using member board smart contracts. 
 
