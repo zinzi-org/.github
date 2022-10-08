@@ -25,11 +25,27 @@ Each contract can accept new member applicants who must meet the interview crite
 
 Board members are required to create and maintain a group's interview process. Members who are being admitted are subject to peer review via internal ethics reviews and impeachment proceedings. 
 
+
 ## Member NFT
 
-Once an applicant is admitted to a 
+Once an applicant is admitted to a board by a member after an interview process he will be minted a soulbound NFT. 
+
+This NFT has a variety of benefits, for instance if the board of members you belong to is prestigious it could help you find work and other social benefits. Helping people find work is something the Zinzi foundation wants to focus on.
+
+We will accomplish the goal of providing work to members. Project zinzi will maintain a variety of Project NFTs. These projects will be auctioned on open NFT markets where members can place bids on the projects. If a project requires a big undertaking and two board members agree a NFT can project, NFT can be bid on by an organization. Individual members can submit independent bids as well.
 
 ## Project NFT
+
+After a Project NFT is awarded to a member bidder the contract becomes unlocked. A Project NFT can have many types. 
+
+Crowd Loan Project Type
+One Time Funded Project Type
+Agile Project Type
+
+When a bid is accepted and the proposal is accepted by the member the project type will unlock a series of functions  based on the needs of the individual or group that created the proposal and the individual or groups who accepted the proposal with a winning bid. 
+
+
+
 
 
 
