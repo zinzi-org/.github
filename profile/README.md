@@ -13,7 +13,7 @@ New users can submit proposals to become members of the organizations. The organ
 Members will be minted a NFT from the Member Contract. This NFT will show up in their wallet and they can show in any open marketplace to show they are indeed a professional in their trade and worthy of hire or whatever their membership might indicate they are worthy of.
 
 
-### [Core Contracts](https://github.com/zinzi-org/contract-core)
+### [Core Contracts](https://github.com/zinzi-org/core-contracts)
 
 - Zinzi Governance (Open Zeppelin / Compound Governance Modules with Member Board Hooks)
 - Member Board (Ethereum Based Governance  Smart Contract)
@@ -58,7 +58,7 @@ When a bid is accepted and the proposal is accepted by the member the project ty
 
 ## Navigating The Source Code
 
-### [Core Contracts](https://github.com/zinzi-org/proj-team)
+### [Core Contracts](https://github.com/zinzi-org/core-contracts)
 
 All smart contracts developed by zinzi.org
 
