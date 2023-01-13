@@ -17,7 +17,7 @@ Before we can have membership we must have the ability to create governor boards
 
 The governors board is the home for memebers of the orgnization. It gives governors and normal members many unique abilities. The main component in the board contract is the ability to create proposals and vote on proposals. These proposal capabilities allow members to vote on governors and other orginizational functions.
 
-        ### List of Proposal Types currently supported
+### List of Proposal Types currently supported
 
 
         TEXT_BASED_PROPOSAL, //external outcome
@@ -29,9 +29,10 @@ The governors board is the home for memebers of the orgnization. It gives govern
         SET_PROP_DELAY, // need a number
         SET_DELEGATION_PERCENTAGE, // need a number
         SET_DELEGATION_THRESHOLD // need a number
+        
+  
 
-        ### Governor Board API
-
+### Governor Board API
 - addGovernor
 - addMember
 - getTotalMembers
