@@ -31,6 +31,10 @@ The governors board is the home for memebers of the orgnization. It gives govern
         SET_DELEGATION_THRESHOLD // need a number
         
   
+### Governor Board Factory API
+- create
+- isBoard
+- membersAddress
 
 ### Governor Board API
 - addGovernor
