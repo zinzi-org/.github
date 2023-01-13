@@ -147,17 +147,6 @@ Team Project is a place where users can apply to join a group and existing membe
 
 Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
 
-### [Scheme Run](https://github.com/zinzi-org/scheme)
-
-[https://www.scheme.run](https://www.scheme.run)
-
-Scheme dot run is a web app where users can request quick funded projects with little fuss. 
-
-
-
-
-
-
 
 
 
