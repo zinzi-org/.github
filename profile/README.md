@@ -13,15 +13,45 @@ The goal of Project Zinzi is to implement and maintain a series of Solidity smar
 
 ## Governor Board & Factory
 
+Before we can have membership we must have the ability to create governor boards that will manage the orgnization. We have the governor board factory which allows anyone to create a new governor board with just a name. 
+
+The governors board is the home for memebers of the orgnization. It gives governors and normal members many unique abilities.
+
+
+        TEXT_BASED_PROPOSAL, //external outcome
+        ADD_GOVERNOR, // we need an address
+        REMOVE_GOVERNOR, // we need an address
+        SET_BOARD_URL, // we need a string
+        REMOVE_MEMBER, // we need an address
+        SET_PROP_DURATION, // need a number
+        SET_PROP_DELAY, // need a number
+        SET_DELEGATION_PERCENTAGE, // need a number
+        SET_DELEGATION_THRESHOLD // need a number
+
+- addGovernor
+- addMember
+- getTotalMembers
+- memberHasDelegation
+- getGovWhoApprovedMember
+- castVote
+- propose
+- isGovernor
+- setBoardURL
+- getMemberVotesAddress
+- proposalVotes
+- hasVoted
+- hashProposal
+- state
+- proposalSnapshot
+- proposalDeadline
+- votingDelay
+- votingPeriod
+- getVotes
+
+
 ## Member NFT
 
-Once an applicant is admitted to a board by a member after an interview process he will be minted a soulbound NFT. 
-
-This NFT has a variety of benefits, for instance if the board of members you belong to is prestigious it could help you find work and other social benefits. Helping people find work is something the Zinzi foundation wants to focus on.
-
-We will accomplish the goal of providing work to members. Project zinzi will maintain a variety of Project NFTs. These projects will be auctioned on open NFT markets where members can place bids on the projects. If a project requires a big undertaking and two board members agree a NFT can project, NFT can be bid on by an organization. Individual members can submit independent bids as well.
-
-## Member Votes
+## Member Vote ERC20
 
 ## Project NFT
 
