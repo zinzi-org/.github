@@ -56,7 +56,13 @@ The governors board is the home for memebers of the orgnization. It gives govern
 
 ## Member NFT
 
+All membership across all orginizations will be tracked in the Member NFT contract. There is two ways for someone to become a member of a governor board. First is to be a governor board creator, second is to be minted one via a governing members approval. While createing boards the creator will be automatically minted a NFT token to their wallet that will represent the fact they belong to this static orgnization defined on the blockchain. 
+
 ## Member Vote ERC20
+
+Member Votes contract is an automatically managed token that is assigned to individuals based on their voting power in an orginization. Voting power is represented by three things. Governor voting weight, delegated voting weight, and member voting weight. 
+
+A member may delegate his voting power to another memeber.
 
 ## Project NFT
 
