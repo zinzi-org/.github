@@ -33,12 +33,11 @@ After a Project NFT is awarded to a member bidder the contract becomes unlocked.
 
 When a bid is accepted and the proposal is accepted by the member the project type will unlock a series of functions  based on the needs of the individual or group that created the proposal and the individual or groups who accepted the proposal with a winning bid. 
 
-
-## Navigating The Source Code
+----------
 
 ### [Core Contracts](https://github.com/zinzi-org/core-contracts)
 
-All smart contracts developed by zinzi.org
+-----------
 
 ### [Zinzi](https://github.com/zinzi-org/zinzi)
 
@@ -63,12 +62,6 @@ Team Project is a place where users can apply to join a group and existing membe
 [https://www.prop.camp](https://www.prop.camp)
 
 Proposal Camp is where Proposal/Project NFTs will be designed and auctioned.
-
-### [Bird Pizza](https://github.com/zinzi-org/brd-pizza)
-
-[https://www.brd.pizza](https://www.brd.pizza)
-
-brd-pizza is an experimental social network using member board smart contracts. 
 
 ### [Scheme Run](https://github.com/zinzi-org/scheme)
 
