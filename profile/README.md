@@ -135,12 +135,6 @@ Zinzi is the root foundation website where all documentation and news will be di
 
 A place for members to create and maintain their member board.
 
-### [Team Project](https://github.com/zinzi-org/proj-team)
-
-[https://www.proj.team](https://www.proj.team)
-
-Team Project is a place where users can apply to join a group and existing members can maintain their current groups.
-
 ### [Proposal Camp](https://github.com/zinzi-org/prop-camp)
 
 [https://www.prop.camp](https://www.prop.camp)
